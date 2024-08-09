@@ -5,7 +5,7 @@ AI-Case-Study
 Deepgram is an automatic speech recognition startup that uses end-to-end deep learning technology to train speech models to learn under complex, real-world conditions—regardless of customers’ unique vocabulary, accents, product names, and acoustic environments (*1).  CEO Scott Stephenson, came up with the idea for Deepgram while researching the creation of dark matter in a bunker two miles underground as a Ph.D. student. In the few hours that weren’t devoted to his research, Scott recorded audio from his life, 24,7, and realized there wasn’t a tool available that would help process his recordings and pinpoint valuable timestamps. (*1)
 
 **Name of company**\
-Deepgram
+[Deepgram](https://deepgram.com)
 
 * When was the company incorporated?
 2015 (*2)
