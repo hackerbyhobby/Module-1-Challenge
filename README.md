@@ -23,6 +23,7 @@ Y Combinator & other seed funding (*2).  They have raised a total of 85.9 millio
 
 * What specific problem is the company or project trying to solve?
 They’re trying to solve speech recognition regardless of customers’ unique vocabulary, accents, product names, and acoustic environments (*1). 
+> “ASR is not solved,” Scott Stephenson, co-founder and CEO of Deepgram, explained in an interview. “It’s solved for specific data sets but with noisy accented call data, any service will do a poor job with it." (*10)
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 Intended customers are any companies that need to solve speech recognition, using an API.
@@ -80,6 +81,6 @@ They’re appropriate because it is leveraging their own tech stack to help serv
 *7) https://deepgram.com/learn/deepgram-series-a
 *8) https://deepgram.com/compare/speechmatics-vs-deepgram-alternative
 *9) https://deepgram.com/compare/microsoft-vs-deepgram-alternative
-
+*10) https://techcrunch.com/2017/10/10/deepgram-opens-up-its-machine-transcription-platform-to-everyone/
 
 
